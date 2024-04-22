@@ -24,7 +24,7 @@ public:
 
 int main() {
     Solution solution;
-    std::string input = "Hello World!";
+    std::string input = "abcd";
     std::cout << "Original string: " << input << std::endl;
     std::string reversed = solution.reverseWord(input);
     std::cout << "Reversed string: " << reversed << std::endl;
