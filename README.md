@@ -1,7 +1,3 @@
-Certainly! Here's a template for a general README file for your Data Structures and Algorithms (DSA) repository:
-
----
-
 # Data Structures and Algorithms
 
 This repository contains implementations of various data structures and algorithms in C++, aimed at helping you understand and practice fundamental concepts of DSA.
